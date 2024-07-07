@@ -20,10 +20,15 @@
 
 ## Azure Resources created
 1.azurerm_resource_group
+
 2.azurerm_virtual_network
+
 3.azurerm_subnet
+
 4.azurerm_network_security_group
+
 5.azurerm_subnet_network_security_group_association
+
 6.azurerm_network_security_rule
 
 ![image](https://github.com/DeoreRohit4/Azure-Virtual-Network-4-Tier-Design-using-Terraform/assets/102886808/2cdde050-3d98-4b0c-9ecf-db607b22fff0)
